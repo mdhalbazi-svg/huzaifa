@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Ishtihar Banao",
+    "slug": "ishtihar-banao",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.ishtiharbanao.app"
+    }
+  }
+}
